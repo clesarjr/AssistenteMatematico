@@ -30,4 +30,13 @@
 - produto misto
 - vetores coplanares
 - modulo do vetor
-
+## Geometria
+- Cateto Oposto
+- Cateto Adjacente
+- Hipotenusa
+- Seno
+- Cosseno
+- Tangente
+- Cotangente
+- Cossencante
+- Secante
